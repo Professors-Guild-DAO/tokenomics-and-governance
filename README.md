@@ -1,1 +1,2 @@
-# tokenomics
+# Professors Guild DAO Tokenomics & Governance  
+  
