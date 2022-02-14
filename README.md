@@ -25,7 +25,8 @@ Professors Guild DAO is owned and governed by its holders and governance will pa
 - Funding of application  
 - Additions to the core team 
 - Treasury allocation
-- Updates to DAO protocols & management
+- Updates to DAO protocols & management  
+- 
 ### Governance Phase 1  
 In this phase the core team is responsible for almost everything. Tokenomics, minting, community organization and social media. We expect this phase to last until the end of March 2022. Voting will be conducted through discord or an in-house solution crafted by the team and decisions made will be enforced through the core team.
   
@@ -39,6 +40,8 @@ Full decentralization and autonomy. Our smart contact voting system will enforce
 This spreadsheet lays out the initial distribution of funds acquired from minting Early Access Tokens to [Token Check](https://tokencheck.app) and minting of DAO membership NFTs.  
 
 [Professors Guild Funds Distribution](https://docs.google.com/spreadsheets/d/1_KMayyb4KiZqFjBiPOlJiWkPjJevaTOlLgA_oejcY5E/edit?usp=sharing)  
+  
+[Professors Guild Transactions](https://docs.google.com/spreadsheets/d/1YFix3e_8kZ-Tt8E686TljvSrtLe3A96yf6H4f34ljYM/edit?usp=sharing)  
   
 ## Profit Share & Passive income  
 *Info Coming Soon*  
